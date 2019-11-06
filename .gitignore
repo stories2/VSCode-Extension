@@ -486,3 +486,5 @@ MigrationBackup/
 # End of https://www.gitignore.io/api/node,angular,visualstudio,visualstudiocode
 
 out/
+
+*.vsix
